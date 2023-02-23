@@ -1,5 +1,5 @@
 # FirstRepo
 Introduction to version control with Git
 
-## hej
-ghghg
+## Extra info
+This makes it more informative
